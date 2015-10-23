@@ -170,6 +170,7 @@ CGFloat const kHelpViewW = 40;
     } completion:^(BOOL finished) {
   
     }];
+    
 }
 - (void)beginAnimation{
     
